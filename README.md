@@ -3,11 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Tasif Ahemed Himal(Himel)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
 
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=Tasif Ahemed Himal&color=red)
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
