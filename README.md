@@ -9,11 +9,11 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Tasif Ahemed Himal](https://www.hablu-programmer.com/)
+- 🔭 I’m currently working on [Hablu Programer](https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning Golang, Java, C++
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/tasifhimal)
+- 👨‍💻 All of my projects are available at [https://github.com/tasifhimal](https://github.com/tasifhimal)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
